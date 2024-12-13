@@ -32,10 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            As a web developer, I build modern and user-friendly websites, making an impact in the digital world. With creative design and efficient coding, I'm here to turn your projects into reality.
           </motion.p>
 
           {/* btn */}
