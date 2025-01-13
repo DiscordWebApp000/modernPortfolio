@@ -42,6 +42,11 @@ const workSlides = {
           path: "/thumb5.jpg",
           link: "https://blogblogblog-hazel.vercel.app/blog",
         },
+        {
+          title: "E-commerce",
+          path: "/thumb6.png",
+          link: "https://ecommerce-cursor-demo.vercel.app",
+        },
         
       ],
     },
