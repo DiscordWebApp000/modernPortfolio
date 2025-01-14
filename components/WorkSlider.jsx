@@ -47,7 +47,11 @@ const workSlides = {
           path: "/thumb6.png",
           link: "https://ecommerce-cursor-demo.vercel.app",
         },
-        
+        {
+          title: "Ai-Article-Generator",
+          path: "/thumb7.png",
+          link: "https://article-creator-aii.vercel.app/",
+        },
       ],
     },
   ],
